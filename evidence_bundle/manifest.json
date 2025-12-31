@@ -1,0 +1,16 @@
+[
+  {
+    "file": "alerts.json",
+    "sha256": "21ec9d0e71173f309af0034e9409ae15d87c37de769bae5d112720d531af3df0",
+    "size": 11,
+    "kind": "json",
+    "collected_at": "2025-12-31T08:15:48+00:00"
+  },
+  {
+    "file": "logs/firewall.log",
+    "sha256": "da8cc80b80b084c810aacffc49ff06e9f46c66a8aa0e2d16396dd92cc83d9096",
+    "size": 20,
+    "kind": "log",
+    "collected_at": "2025-12-31T08:15:48+00:00"
+  }
+]
